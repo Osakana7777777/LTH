@@ -1,6 +1,8 @@
 # LTH
 Implementation of "Lottery Ticket Hypothesis(LTH).
+
 There will be two versions, Jupyter Notebook and ".py" files.
+
 I use PyTorch as a framework.
 
 Reference:
